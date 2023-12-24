@@ -1,0 +1,32 @@
+/* nav */
+nav{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.a1{
+    color: white;
+    margin-left: 70px;
+
+}
+nav ul li{
+    list-style: none;
+    color: white;
+    font-size: 16px;
+    margin-right: 100px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+}
+/* nav */
+body{
+    background-color: black;
+}

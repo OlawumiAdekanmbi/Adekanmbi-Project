@@ -1,0 +1,53 @@
+/* .checkbtn{
+    font-size: 30px;
+    color: white;
+}
+.j1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+*{
+    background: rgba(255,165,0,0.7) url(/image/aji11.jpeg);
+    background-size: cover;
+    background-blend-mode: darken;
+} */
+/* .j2{
+    background-image: url(/image/aji11.jpeg);
+    height: 500px;
+    width: 90%;
+    opacity: 0.4;
+} */
+/* ul li::marker{
+    color: blue;
+    list-style-image: url(/image/correct.png);
+} */
+ul li{
+  list-style-image: url(/image/correct.png);
+}
+
+.a17{
+    
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    
+    margin-top: 70px;
+    padding-top: 250px;
+    }
+    .a17{
+        background: rgba(0,0,0,0.5) url(/image/aji26.jpg); 
+         width: 70%;
+        height: 600px; 
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        background-blend-mode: darken;
+    
+    }
+
+
+
+
+
